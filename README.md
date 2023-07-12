@@ -1,3 +1,3 @@
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sir%20Pieces&theme=modern-lilac2&hide_border=true)](https://git.io/streak-stats)
+    <img src="(https://streak-stats.demolab.com/?user=SirPieces&theme=dark&border_radius=6&card_width=500&type=png)" /></a><br>
 </p>
